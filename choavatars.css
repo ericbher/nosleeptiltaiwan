@@ -1,0 +1,59 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+}
+
+.toprow {
+	text-align: center;
+	margin-top: 20px;
+	border-top: 1px solid #fff;
+	padding-top: 30px;
+}
+
+.instructions {
+	font-family: Helvetica, sans-serif;
+}
+
+.row {
+	text-align: center;
+}
+
+.divider {
+	border-top: 1px solid #fff;
+
+}
+
+.profilepic {
+	position: relative;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.profilename {
+	position: relative;
+	margin-left: 30px;
+	margin-top: -10px;
+}
+
+.bio {
+	position: relative;
+	margin-left: 30px;
+}
+
+h1 {
+	font-family: Bebas Neue;
+	color: white;
+	font-size: 80px;
+}
+
+.quotes {
+	border-left: 5px solid #d96a6a;
+	margin-left: 50px;
+	font-size: 30px;
+	color: white;
+	padding-left: 5px;
+	margin-top: -30px;
+}

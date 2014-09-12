@@ -1,0 +1,18 @@
+body {
+	background-color: #F2E2CE;
+}
+
+#header {
+	font-family: Futura, sans-serif;
+	color: #58838C;
+	letter-spacing: 0.1em;
+}
+
+#subtitle {
+	font-family: sans-serif;
+	margin-top: -20px;
+}
+
+#author {
+	font-size: 12px;
+}
